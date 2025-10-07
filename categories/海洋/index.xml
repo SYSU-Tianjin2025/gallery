@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>海洋 on </title>
+    <link>/categories/%E6%B5%B7%E6%B4%8B/</link>
+    <description>Recent content in 海洋 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/%E6%B5%B7%E6%B4%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14日·第二站·游天津港</title>
+      <link>/9-14-%E5%A4%A9%E6%B4%A5%E6%B8%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/9-14-%E5%A4%A9%E6%B4%A5%E6%B8%AF/</guid>
+        <media:content url="/9-14-%E5%A4%A9%E6%B4%A5%E6%B8%AF/MVIMG_20250914_100549_hu_b1cf3b304adda429.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/9-14-%E5%A4%A9%E6%B4%A5%E6%B8%AF/MVIMG_20250914_100549_hu_b1cf3b304adda429.jpg&quot; /&gt;
+          &lt;p&gt;9月14日上午-行程第二站：参观天津港&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>14日·第三站·国家海洋博物馆</title>
+      <link>/9-14-%E6%B5%B7%E5%8D%9A/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/9-14-%E6%B5%B7%E5%8D%9A/</guid>
+        <media:content url="/9-14-%E6%B5%B7%E5%8D%9A/c1_hu_e4255c51b2b8fb34.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/9-14-%E6%B5%B7%E5%8D%9A/c1_hu_e4255c51b2b8fb34.jpg&quot; /&gt;
+          &lt;p&gt;9月14日午，第三站：天津国家海洋博物馆&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>街区 on </title>
+    <link>/categories/%E8%A1%97%E5%8C%BA/</link>
+    <description>Recent content in 街区 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/%E8%A1%97%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14日·第四站·天津五大道</title>
+      <link>/9-14-%E4%BA%94%E5%A4%A7%E9%81%93/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/9-14-%E4%BA%94%E5%A4%A7%E9%81%93/</guid>
+        <media:content url="/9-14-%E4%BA%94%E5%A4%A7%E9%81%93/a_hu_1c1f67ac40ba3305.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/9-14-%E4%BA%94%E5%A4%A7%E9%81%93/a_hu_1c1f67ac40ba3305.jpg&quot; /&gt;
+          &lt;p&gt;9月14日下午，第四站，逛五大道&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>14日·第五站·天美艺术街</title>
+      <link>/9-14-%E5%A4%A9%E7%BE%8E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/9-14-%E5%A4%A9%E7%BE%8E/</guid>
+        <media:content url="/9-14-%E5%A4%A9%E7%BE%8E/IMG_20250914_162254_hu_7109ae6bd32e1dee.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/9-14-%E5%A4%A9%E7%BE%8E/IMG_20250914_162254_hu_7109ae6bd32e1dee.jpg&quot; /&gt;
+          &lt;p&gt;9月14日下午，行程第五站，参观天美艺术街区&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

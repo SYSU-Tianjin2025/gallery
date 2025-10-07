@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>讲座 on </title>
+    <link>/categories/%E8%AE%B2%E5%BA%A7/</link>
+    <description>Recent content in 讲座 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/%E8%AE%B2%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>序·9月13日·欢迎仪式&#43;讲座</title>
+      <link>/9-13-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/9-13-report/</guid>
+        <media:content url="/9-13-report/a_hu_d7add315c1655e81.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;/9-13-report/a_hu_d7add315c1655e81.jpg&quot; /&gt;
+          &lt;p&gt;第二届研究生「文化中国行」两创大赛「欢迎仪式」及「赛题讲座」。&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
